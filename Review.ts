@@ -978,4 +978,3 @@ function disemvowel(str:string){
 
 
 console.log(disemvowel("This website is for losers LOL!"))
-//i am pretending that i am coding master
